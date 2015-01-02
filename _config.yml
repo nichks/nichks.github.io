@@ -32,7 +32,7 @@ address:
   - line: Portland, OR
 
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'credits'
 
 # Build settings
 markdown: kramdown
