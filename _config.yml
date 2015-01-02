@@ -1,0 +1,39 @@
+# Site settings
+title: neighborhood films
+email: watchnhfilms@gmail.com
+description: "We are a videography production team that enjoys making things and we'd love to work with you."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: D3D3D3 #80B3FF
+  secondary: 088A08 #FD6E8A
+  secondary-dark: 000040 #A2122F
+
+# Footer settings
+footer:
+  copyright: neighborhood films
+  location: Portland, Oregon!
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: tumblr
+    url: http://neighborhoodfilms.tumblr.com
+  - title: facebook
+    url: https://www.facebook.com/pages/Neighborhood-Films/180882116625
+  - title: vimeo-square
+    url: http://vimeo.com/neighborhoodfilm
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+  - line: Portland, OR
+
+# Credits content
+credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
